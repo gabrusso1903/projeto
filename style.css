@@ -6,3 +6,13 @@
 body{
     background-color: tomato;
 }
+main aside{
+    background-color: aquamarine;
+}
+main article{
+    background-color: blueviolet;
+}
+p{
+    color: red;
+    background-color: white;
+}
